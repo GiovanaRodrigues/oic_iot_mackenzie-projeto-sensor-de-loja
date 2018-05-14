@@ -1,75 +1,50 @@
-# Documento de Visão do Projeto "NOME DO PROJETO"
+# Documento de Visão do Projeto "Campainha de Mercadinho"
 
-Este documento apresenta uma solução de software para o projeto *"NOME DO PROJETO"*, 
+Este documento apresenta uma solução de software para o projeto *Campainha de Mercadinho*, 
 apresentando os problemas a serem solucionados, as necessidades dos principais envolvidos, o alcance do projeto e as funcionalidades esperadas.
 
 ## Objetivos
 
-* Objetivo 1
-* Objetivo 2
-* Objetivo 3
-* etc.
+* Criar uma campainha (ou alarme), que é acionado através de um sensor de movimentos, que emita um aviso sonoro para avisar um vendedor de uma loja (ou mercado de pequeno porte) que um novo cliente chegou.
 
 ## Problema
 
-* Descrição do problema: ___
-* Quem é afetado pelo problema: ____
-* Impacto no negócio: ___
-* Benefícios de uma boa solução: ___
+* Descrição do problema: Falta ou mal atendimento de clientes, por conta de o vendedor não perceber que um novo cliente chegou ao estabelecimento
+* Quem é afetado pelo problema: Os vendedores e donos de pequenos estabelecimentos
+* Impacto no negócio: Médio
+* Benefícios de uma boa solução: Melhor e mais rápido atendimento de clientes
 
 ## Definições, abreviações e outros termos do domínio do problema
 
-* Definição 1
-* Definição 2
-* Definição 3
-* etc.
+* Não há
 
 ## Integração com outros sistemas
 
-* Sistema externo 1
-* Sistema externo 2
-* Sistema externo 3
-* etc.
+* Node-Red
+* Sistema de armazenamento de dados (SGBD)
  
 ## Interessados
 
-* Tipo de interessado 1
-* Tipo de interessado 2
-* Tipo de interessado 3
-* etc.
+* Clientes de pequenos estabelecimentos
+* Vendedores de pequenos estabelecimentos
+* Administradores e donos de pequenos estabelecimentos
 
 ## Usuários
 
-* Tipo de usuário 1
-* Tipo de usuário 2
-* Tipo de usuário 3
-* etc.
+* Vendedores de pequenos estabelecimentos
 
 ## Funcionalidades do produto
 
-* Funcionalidade 1
-* Funcionalidade 2
-* etc.
+* Avisar ao vendedor da entrada de um novo cliente no estabelecimento, através de um sinal sonoro que é emitido no momento que o sensor de presença detecta um movimento na entrada do estabelecimento
 
 ## Restrições do projeto
 
-* Restrição 1
-* Restrição 2
-* Restrição 3
-* etc.
+* Não há
 
 ## Protótipos
 
 ### Protótipos para funcionalidade 1
 
-![](proto1.png)
+![](circuito_tinkercad.png)
 
-Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
-
-### Protótipos para funcionalidade 2
-
-![](proto2.png)
-
-Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
-
-### Protótipos para funcionalidade N
+Fonte: Circuito criado através do Tinkercad **Enterprise Architect**.

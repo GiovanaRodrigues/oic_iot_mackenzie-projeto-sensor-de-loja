@@ -19,5 +19,5 @@ Deve conter:
 
 3) Esquema eletrônico
 
-4) Materiais para confecção de caixas e consoles (ou arquivos para impressão 3D)
+4) Materiais para confecção de caixas e consoles (ou arquivos para impressão 3D)<br />
 •	Não haverá impressão 3D<br />
