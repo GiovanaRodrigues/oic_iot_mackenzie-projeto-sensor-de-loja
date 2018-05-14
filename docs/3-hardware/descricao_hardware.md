@@ -10,7 +10,7 @@ Deve conter:
 •	Sensor de Presença e Movimento PIR<br />
 ![picture](imagens/pir.png)<br />
 •	Buzzer 5V<br />
-![picture](imagens/buzzer.png)
+![picture](imagens/buzzer.png)<br />
 •	Led Azul<br />
 ![picture](imagens/led_azul.png)
 
