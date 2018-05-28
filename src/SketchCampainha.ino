@@ -843,10 +843,14 @@ void loop()
 
 void ligarAlarme() {
   digitalWrite(pinLed, HIGH);
-   
-  //Ligando o buzzer com uma frequencia de 1500 hz.
-  tone(pinBuzzer,3000);
-  delay(3000);
+
+  // Tocar Campainha 
+  tone(6,660);
+  delay(700);
+  tone(6,550);
+  delay(700);
+  tone(6,440);
+  delay(1400);
    
   desligarAlarme();
 }
